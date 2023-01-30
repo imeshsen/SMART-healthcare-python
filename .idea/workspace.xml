@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a2fb24ce-10ae-4e37-8490-afe69339683b" name="Changes" comment="2022/12/21">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/face_recognition_model.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/static/face_recognition_model.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/_/_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/_/_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/_/_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/_/_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/_/_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/wee1@gmail.com_123456/wee1@gmail.com_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/wee1@gmail.com_123456/wee1@gmail.com_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/wee1@gmail.com_123456/wee1@gmail.com_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/wee1@gmail.com_123456/wee1@gmail.com_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/wee@gmail.com_123456/wee@gmail.com_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/wee@gmail.com_123456/wee@gmail.com_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/wee@gmail.com_123456/wee@gmail.com_10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/wee@gmail.com_123456/wee@gmail.com_11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/wee@gmail.com_123456/wee@gmail.com_12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/wee@gmail.com_123456/wee@gmail.com_13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/wee@gmail.com_123456/wee@gmail.com_14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/wee@gmail.com_123456/wee@gmail.com_15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/wee@gmail.com_123456/wee@gmail.com_16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/wee@gmail.com_123456/wee@gmail.com_17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/wee@gmail.com_123456/wee@gmail.com_18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/wee@gmail.com_123456/wee@gmail.com_19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/wee@gmail.com_123456/wee@gmail.com_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/wee@gmail.com_123456/wee@gmail.com_20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/wee@gmail.com_123456/wee@gmail.com_21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/wee@gmail.com_123456/wee@gmail.com_22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/wee@gmail.com_123456/wee@gmail.com_23.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/wee@gmail.com_123456/wee@gmail.com_24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/wee@gmail.com_123456/wee@gmail.com_25.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/wee@gmail.com_123456/wee@gmail.com_26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/wee@gmail.com_123456/wee@gmail.com_27.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/wee@gmail.com_123456/wee@gmail.com_28.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/wee@gmail.com_123456/wee@gmail.com_29.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/wee@gmail.com_123456/wee@gmail.com_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/wee@gmail.com_123456/wee@gmail.com_30.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/wee@gmail.com_123456/wee@gmail.com_31.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/wee@gmail.com_123456/wee@gmail.com_32.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/wee@gmail.com_123456/wee@gmail.com_33.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/wee@gmail.com_123456/wee@gmail.com_34.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/wee@gmail.com_123456/wee@gmail.com_35.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/wee@gmail.com_123456/wee@gmail.com_36.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/wee@gmail.com_123456/wee@gmail.com_37.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/wee@gmail.com_123456/wee@gmail.com_38.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/wee@gmail.com_123456/wee@gmail.com_39.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/wee@gmail.com_123456/wee@gmail.com_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/wee@gmail.com_123456/wee@gmail.com_40.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/wee@gmail.com_123456/wee@gmail.com_41.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/wee@gmail.com_123456/wee@gmail.com_42.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/wee@gmail.com_123456/wee@gmail.com_43.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/wee@gmail.com_123456/wee@gmail.com_44.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/wee@gmail.com_123456/wee@gmail.com_45.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/wee@gmail.com_123456/wee@gmail.com_46.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/wee@gmail.com_123456/wee@gmail.com_47.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/wee@gmail.com_123456/wee@gmail.com_48.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/wee@gmail.com_123456/wee@gmail.com_49.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/wee@gmail.com_123456/wee@gmail.com_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/wee@gmail.com_123456/wee@gmail.com_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/wee@gmail.com_123456/wee@gmail.com_7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/wee@gmail.com_123456/wee@gmail.com_8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/wee@gmail.com_123456/wee@gmail.com_9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/weeeeeeee@gmail.com_123456/weeeeeeee@gmail.com_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/weeeeeeee@gmail.com_123456/weeeeeeee@gmail.com_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/weeeeeeee@gmail.com_123456/weeeeeeee@gmail.com_10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/weeeeeeee@gmail.com_123456/weeeeeeee@gmail.com_11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/weeeeeeee@gmail.com_123456/weeeeeeee@gmail.com_12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/weeeeeeee@gmail.com_123456/weeeeeeee@gmail.com_13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/weeeeeeee@gmail.com_123456/weeeeeeee@gmail.com_14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/weeeeeeee@gmail.com_123456/weeeeeeee@gmail.com_15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/weeeeeeee@gmail.com_123456/weeeeeeee@gmail.com_16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/weeeeeeee@gmail.com_123456/weeeeeeee@gmail.com_17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/weeeeeeee@gmail.com_123456/weeeeeeee@gmail.com_18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/weeeeeeee@gmail.com_123456/weeeeeeee@gmail.com_19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/weeeeeeee@gmail.com_123456/weeeeeeee@gmail.com_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/weeeeeeee@gmail.com_123456/weeeeeeee@gmail.com_20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/weeeeeeee@gmail.com_123456/weeeeeeee@gmail.com_21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/weeeeeeee@gmail.com_123456/weeeeeeee@gmail.com_22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/weeeeeeee@gmail.com_123456/weeeeeeee@gmail.com_23.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/weeeeeeee@gmail.com_123456/weeeeeeee@gmail.com_24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/weeeeeeee@gmail.com_123456/weeeeeeee@gmail.com_25.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/weeeeeeee@gmail.com_123456/weeeeeeee@gmail.com_26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/weeeeeeee@gmail.com_123456/weeeeeeee@gmail.com_27.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/weeeeeeee@gmail.com_123456/weeeeeeee@gmail.com_28.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/weeeeeeee@gmail.com_123456/weeeeeeee@gmail.com_29.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/weeeeeeee@gmail.com_123456/weeeeeeee@gmail.com_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/weeeeeeee@gmail.com_123456/weeeeeeee@gmail.com_30.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/weeeeeeee@gmail.com_123456/weeeeeeee@gmail.com_31.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/weeeeeeee@gmail.com_123456/weeeeeeee@gmail.com_32.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/weeeeeeee@gmail.com_123456/weeeeeeee@gmail.com_33.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/weeeeeeee@gmail.com_123456/weeeeeeee@gmail.com_34.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/weeeeeeee@gmail.com_123456/weeeeeeee@gmail.com_35.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/weeeeeeee@gmail.com_123456/weeeeeeee@gmail.com_36.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/weeeeeeee@gmail.com_123456/weeeeeeee@gmail.com_37.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/weeeeeeee@gmail.com_123456/weeeeeeee@gmail.com_38.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/weeeeeeee@gmail.com_123456/weeeeeeee@gmail.com_39.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/weeeeeeee@gmail.com_123456/weeeeeeee@gmail.com_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/weeeeeeee@gmail.com_123456/weeeeeeee@gmail.com_40.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/weeeeeeee@gmail.com_123456/weeeeeeee@gmail.com_41.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/weeeeeeee@gmail.com_123456/weeeeeeee@gmail.com_42.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/weeeeeeee@gmail.com_123456/weeeeeeee@gmail.com_43.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/weeeeeeee@gmail.com_123456/weeeeeeee@gmail.com_44.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/weeeeeeee@gmail.com_123456/weeeeeeee@gmail.com_45.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/weeeeeeee@gmail.com_123456/weeeeeeee@gmail.com_46.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/weeeeeeee@gmail.com_123456/weeeeeeee@gmail.com_47.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/weeeeeeee@gmail.com_123456/weeeeeeee@gmail.com_48.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/weeeeeeee@gmail.com_123456/weeeeeeee@gmail.com_49.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/weeeeeeee@gmail.com_123456/weeeeeeee@gmail.com_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/weeeeeeee@gmail.com_123456/weeeeeeee@gmail.com_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/weeeeeeee@gmail.com_123456/weeeeeeee@gmail.com_7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/weeeeeeee@gmail.com_123456/weeeeeeee@gmail.com_8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/weeeeeeee@gmail.com_123456/weeeeeeee@gmail.com_9.jpg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IqM7ZxO7Ox3R5JaAoFArAPYdxg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/acer/anaconda3/envs/new_env&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2fb24ce-10ae-4e37-8490-afe69339683b" name="Changes" comment="" />
+      <created>1670904494150</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670904494150</updated>
+    </task>
+    <task id="LOCAL-00001" summary="2022/12/21">
+      <created>1671611044403</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671611044403</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2022/12/21" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022/12/21" />
+  </component>
+</project>
