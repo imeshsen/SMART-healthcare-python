@@ -1,71 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2fb24ce-10ae-4e37-8490-afe69339683b" name="Changes" comment="2022/12/21">
+    <list default="true" id="a2fb24ce-10ae-4e37-8490-afe69339683b" name="Changes" comment="2023/02/27">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Attendance/Attendance-01_29_23.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Attendance/Attendance-12_09_22.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Attendance/Attendance-12_11_22.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Attendance/Attendance-12_12_22.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Attendance/Attendance-12_15_22.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Attendance/Attendance-12_17_22.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Attendance/Attendance-12_18_22.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Attendance/Attendance-12_20_22.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Attendance/Attendance-12_21_22.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Attendance/Attendance-12_22_22.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/face_recognition_model.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/static/face_recognition_model.pkl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/faces/rrr@gmail.com_123456/rrr@gmail.com_0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/faces/rrr@gmail.com_123456/rrr@gmail.com_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/faces/rrr@gmail.com_123456/rrr@gmail.com_10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/faces/rrr@gmail.com_123456/rrr@gmail.com_11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/faces/rrr@gmail.com_123456/rrr@gmail.com_12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/faces/rrr@gmail.com_123456/rrr@gmail.com_13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/faces/rrr@gmail.com_123456/rrr@gmail.com_14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/faces/rrr@gmail.com_123456/rrr@gmail.com_15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/faces/rrr@gmail.com_123456/rrr@gmail.com_16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/faces/rrr@gmail.com_123456/rrr@gmail.com_17.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/faces/rrr@gmail.com_123456/rrr@gmail.com_18.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/faces/rrr@gmail.com_123456/rrr@gmail.com_19.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/faces/rrr@gmail.com_123456/rrr@gmail.com_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/faces/rrr@gmail.com_123456/rrr@gmail.com_20.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/faces/rrr@gmail.com_123456/rrr@gmail.com_21.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/faces/rrr@gmail.com_123456/rrr@gmail.com_22.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/faces/rrr@gmail.com_123456/rrr@gmail.com_23.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/faces/rrr@gmail.com_123456/rrr@gmail.com_24.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/faces/rrr@gmail.com_123456/rrr@gmail.com_25.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/faces/rrr@gmail.com_123456/rrr@gmail.com_26.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/faces/rrr@gmail.com_123456/rrr@gmail.com_27.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/faces/rrr@gmail.com_123456/rrr@gmail.com_28.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/faces/rrr@gmail.com_123456/rrr@gmail.com_29.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/faces/rrr@gmail.com_123456/rrr@gmail.com_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/faces/rrr@gmail.com_123456/rrr@gmail.com_30.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/faces/rrr@gmail.com_123456/rrr@gmail.com_31.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/faces/rrr@gmail.com_123456/rrr@gmail.com_32.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/faces/rrr@gmail.com_123456/rrr@gmail.com_33.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/faces/rrr@gmail.com_123456/rrr@gmail.com_34.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/faces/rrr@gmail.com_123456/rrr@gmail.com_35.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/faces/rrr@gmail.com_123456/rrr@gmail.com_36.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/faces/rrr@gmail.com_123456/rrr@gmail.com_37.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/faces/rrr@gmail.com_123456/rrr@gmail.com_38.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/faces/rrr@gmail.com_123456/rrr@gmail.com_39.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/faces/rrr@gmail.com_123456/rrr@gmail.com_4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/faces/rrr@gmail.com_123456/rrr@gmail.com_40.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/faces/rrr@gmail.com_123456/rrr@gmail.com_41.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/faces/rrr@gmail.com_123456/rrr@gmail.com_42.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/faces/rrr@gmail.com_123456/rrr@gmail.com_43.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/faces/rrr@gmail.com_123456/rrr@gmail.com_44.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/faces/rrr@gmail.com_123456/rrr@gmail.com_45.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/faces/rrr@gmail.com_123456/rrr@gmail.com_46.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/faces/rrr@gmail.com_123456/rrr@gmail.com_47.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/faces/rrr@gmail.com_123456/rrr@gmail.com_48.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/faces/rrr@gmail.com_123456/rrr@gmail.com_49.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/faces/rrr@gmail.com_123456/rrr@gmail.com_5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/faces/rrr@gmail.com_123456/rrr@gmail.com_6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/faces/rrr@gmail.com_123456/rrr@gmail.com_7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/faces/rrr@gmail.com_123456/rrr@gmail.com_8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/faces/rrr@gmail.com_123456/rrr@gmail.com_9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +47,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671611044403</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2023/02/27">
+      <created>1677523126296</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677523126296</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -124,6 +70,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2022/12/21" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022/12/21" />
+    <MESSAGE value="2023/02/27" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023/02/27" />
   </component>
 </project>
