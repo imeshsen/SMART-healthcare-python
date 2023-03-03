@@ -105,12 +105,14 @@ def start():
             cv2.putText(frame, f'{identified_person}', (30, 30), cv2.FONT_HERSHEY_SIMPLEX, 1, (255, 0, 20), 2,
                         cv2.LINE_AA)
         cv2.imshow('Attendance', frame)
-
+#don't put webbrrowser here
         if cv2.waitKey(1) == 27:
             break
+
     cap.release()
-    cv2.waitKey(0)
+
     cv2.destroyAllWindows()
+
     webbrowser.open(f'http://localhost:3000/user/{identified_person}')
 
 
@@ -121,14 +123,21 @@ def add():
     # facedt =request.data.decode('utf-8')
     # newusername = facedt
     # facedt = request.get_json()
+    content_type = request.headers.get('Content-Type')
+    if (content_type == 'application/json'):
+        json = request.json
+        print (json['nic'])
+    else:
+        return 'Content-Type not supported!'
     # return facedt
     # stringdt = json.dumps(facedt)
     # return stringdt
     # data_str = json.dumps(facedt, indent=4)
     # print(data_str)
     # newusername = data_str
-    newusername = request.form['name']
-    newuserid = request.form['nic']
+    # newusername = request.form['name']
+    # newuserid = request.form['nic']
+    newuserid = json['nic']
     # userimagefolder = 'static/faces/' + newusername
     userimagefolder = 'static/faces/' + str(newuserid)
     # userimagefolder = 'static/faces/' + newusername + '_' + str(newuserid)
@@ -144,7 +153,7 @@ def add():
             cv2.putText(frame, f'Images Captured: {i}/50', (30, 30), cv2.FONT_HERSHEY_SIMPLEX, 1, (255, 0, 20), 2,
                         cv2.LINE_AA)
             if j % 10 == 0:
-                name = newusername + '_' + str(i) + '.jpg'
+                name = newuserid + '_' + str(i) + '.jpg'
                 cv2.imwrite(userimagefolder + '/' + name, frame[y:y + h, x:x + w])
                 i += 1
                 bucket = storage.bucket()

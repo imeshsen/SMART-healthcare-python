@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2fb24ce-10ae-4e37-8490-afe69339683b" name="Changes" comment="2023/02/27">
+    <list default="true" id="a2fb24ce-10ae-4e37-8490-afe69339683b" name="Changes" comment="face id fixed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/face_recognition_model.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/static/face_recognition_model.pkl" afterDir="false" />
@@ -54,7 +54,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677523126296</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="face id fixed">
+      <created>1677526500651</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677526500651</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -71,6 +78,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2022/12/21" />
     <MESSAGE value="2023/02/27" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023/02/27" />
+    <MESSAGE value="face id fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="face id fixed" />
   </component>
 </project>
