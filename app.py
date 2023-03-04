@@ -169,6 +169,7 @@ def add():
     cap.release()
 
     cv2.destroyAllWindows()
+    webbrowser.open(f'http://localhost:3000/user/{newuserid}')
     print('Training Model')
     train_model()
     # names, rolls, times, l = extract_attendance()
