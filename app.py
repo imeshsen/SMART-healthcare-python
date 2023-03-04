@@ -1,19 +1,15 @@
+import os
 import webbrowser
+from datetime import date
 
 import cv2
-import os
-import requests
-from flask import Flask, request, render_template, jsonify, request, json
-from datetime import date
-from datetime import datetime
-import numpy as np
-from sklearn.neighbors import KNeighborsClassifier
-import pandas as pd
-import joblib
 import firebase_admin
+import joblib
+import numpy as np
 from firebase_admin import credentials, storage
-from urllib3.util import response
+from flask import Flask, request
 from flask_cors import CORS
+from sklearn.neighbors import KNeighborsClassifier
 
 config = {
 
@@ -55,10 +51,6 @@ if f'Attendance-{datetoday}.csv' not in os.listdir('Attendance'):
     with open(f'Attendance/Attendance-{datetoday}.csv', 'w') as f:
         f.write('Name,Roll,Time')
 
-
-#### get a number of total registered users
-# def totalreg():
-#     return len(os.listdir('static/faces'))
 
 
 #### extract the face from an image
@@ -120,23 +112,12 @@ def start():
 #### This function will run when we add a new user
 @app.route('/add', methods=['GET', 'POST'])
 def add():
-    # facedt =request.data.decode('utf-8')
-    # newusername = facedt
-    # facedt = request.get_json()
     content_type = request.headers.get('Content-Type')
     if (content_type == 'application/json'):
         json = request.json
         print (json['nic'])
     else:
         return 'Content-Type not supported!'
-    # return facedt
-    # stringdt = json.dumps(facedt)
-    # return stringdt
-    # data_str = json.dumps(facedt, indent=4)
-    # print(data_str)
-    # newusername = data_str
-    # newusername = request.form['name']
-    # newuserid = request.form['nic']
     newuserid = json['nic']
     # userimagefolder = 'static/faces/' + newusername
     userimagefolder = 'static/faces/' + str(newuserid)
@@ -172,11 +153,6 @@ def add():
     webbrowser.open(f'http://localhost:3000/user/{newuserid}')
     print('Training Model')
     train_model()
-    # names, rolls, times, l = extract_attendance()
-    # return render_template('home.html',names=names,rolls=rolls,times=times,l=l,totalreg=totalreg(),datetoday2=datetoday2)
-
-
-#### Our main function which runs the Flask App
 
 
 if __name__ == '__main__':
