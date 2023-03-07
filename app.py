@@ -1,7 +1,6 @@
 import os
 import webbrowser
 from datetime import date
-
 import cv2
 import firebase_admin
 import joblib
