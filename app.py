@@ -1,6 +1,5 @@
 import os
 import webbrowser
-from datetime import date
 import cv2
 import firebase_admin
 import joblib
@@ -33,22 +32,13 @@ firebase_admin.initialize_app(cred, config)
 app = Flask(__name__)
 CORS(app)
 
-#### Saving Date today in 2 different formats
-datetoday = date.today().strftime("%m_%d_%y")
-datetoday2 = date.today().strftime("%d-%B-%Y")
-
 #### Initializing VideoCapture object to access WebCam
 face_detector = cv2.CascadeClassifier('static/haarcascade_frontalface_default.xml')
 cap = cv2.VideoCapture(0)
 
 #### If these directories don't exist, create them
-if not os.path.isdir('Attendance'):
-    os.makedirs('Attendance')
 if not os.path.isdir('static/faces'):
     os.makedirs('static/faces')
-if f'Attendance-{datetoday}.csv' not in os.listdir('Attendance'):
-    with open(f'Attendance/Attendance-{datetoday}.csv', 'w') as f:
-        f.write('Name,Roll,Time')
 
 
 
@@ -95,7 +85,7 @@ def start():
             identified_person = identify_face(face.reshape(1, -1))[0]
             cv2.putText(frame, f'{identified_person}', (30, 30), cv2.FONT_HERSHEY_SIMPLEX, 1, (255, 0, 20), 2,
                         cv2.LINE_AA)
-        cv2.imshow('Attendance', frame)
+        cv2.imshow(identified_person, frame)
 #don't put webbrrowser here
         if cv2.waitKey(1) == 27:
             break
